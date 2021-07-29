@@ -152,6 +152,7 @@ font-size: 10px;
  ul {
    list-style-type: none;
    decoration: none;
+   list-style: none;
  }
 
  .tileMe li {
